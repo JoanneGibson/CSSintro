@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Joanne Gibson</title>
+  <meta name="description" content="A template to get started.">
+  <meta name="author" content="Mark Hoeber">
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <h1>All about Jo Gibson</h1>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#article1">My life in the USA, so far.</a></li>
+        <li><a href="#article2">I still don't really GET GitHub!</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section>
+  
+    <article id="article2">
+      <header>
+        <h2>My life in the USA, so far:</h2>
+      </header>
+      <ol>
+        <li>I moved to the USA in 2005 to undertake a postdoctoral fellowship. I planned to stay for 4 or 5 years.</li> 
+        <li>I met my husband and got married in 2008.</li>
+        <li>I stopped working and had 2 adorable daughters, in 2009 and 2011.</li>
+        <li>My daughters are now in school and I'm excited, and scared, to return to work.</li>
+        <li>I became a US citizen in 2016.
+        <li>We adopted a kitten in 2016. I used to dislike cats, but now I ADORE them!</li>
+        <li>I hope to return to work this year, 2017... fingers crossed!</li>
+      </ol>
+    </article>
+    
+    <article id="article2">
+      <header>
+        <h2>I still don't really GET GitHub!</h2>
+      </header>
+      <ul>
+        <li> I'm still having trouble navigating my way around.</li>
+        <li> I have no idea how I can view these changes I'm making to see if they work....oh, got it now! woohoo!</li> 
+        <li> Do I commit my changes everytime I want to see if what I have done has worked?</li>
+        <li> Maybe with more time and practice it will become easier!</li>
+        <li> So many questions, so little time.</li>
+      </ul>
+      </article>
+  </section>
+
+  <aside>
+    <h2>This is me!</h2>
+    <p><img src="IMG_20161105_105930.jpg" height=380 width=500 align=left/></p>
+    <p>This picture was taken while I was watching my girls dance at peek week at their dancing school</p>
+  </aside>
+
+  <aside>
+    <h2>Martin Luther King Jr.</h2>
+    <p><em>“We must accept finite disappointment, but we must never lose infinite hope”</em></p>
+  </aside>
+
+  <footer>
+    <p>Copyright 2017 Joanne Gibson</p>
+  </footer>
+
+</body>
+</html>
